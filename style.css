@@ -1,6 +1,8 @@
 .navbar{
 background-color:#242424;
   border-top:1px dashed black;
+  animation: transform;
+  animation-duration: 5s;
 }
 .navbar: hover{
 transform: translateX(10px);

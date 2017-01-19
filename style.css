@@ -1,5 +1,7 @@
 .navbar{
-background-color:#eeeeee;
-
-
+background-color:#242424;
+  border-top:1px dashed black;
+}
+.navbar: hover{
+transform: translateX(10px);
 }
